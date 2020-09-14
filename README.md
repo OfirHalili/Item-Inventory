@@ -3,7 +3,7 @@ Spring boot application with a REST controller
 
 ## Installation and Setup Instructions
 
-Docker installed on your macihne.
+Docker installed on your machine.
 
 Run command:
 docker run -p 8085:8085 ofirhalili/item-inventory:latest
